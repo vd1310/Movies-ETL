@@ -11,8 +11,8 @@ The purpose of this project is to reate an automated pipeline that takes in new 
 
 ## Results: 
 
-![alt text](https://github.com/vd1310/surfs_up/blob/main/June.PNG)
+![alt text](https://github.com/vd1310/Movies-ETL/blob/main/ratings_query.PNG)
 
 
-![alt text](https://github.com/vd1310/surfs_up/blob/main/December.PNG)
+![alt text](https://github.com/vd1310/Movies-ETL/blob/main/ratings_query.PNG)
 
